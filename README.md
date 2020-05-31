@@ -7,4 +7,4 @@ Run the HTML and the JavaScript code in your browser ( Mozilla Firefox 68.0.1 in
 
 
 
-#### NOTE : The README.MD will be updated with complete details on 5th August or later.
+#### NOTE : This was not a particularly interesting project I suppose xD, I'm not working on this anymore nor do I plan on updating it anymore.
