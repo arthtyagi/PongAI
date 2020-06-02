@@ -1,7 +1,5 @@
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/arthtyagi/PongAI) 
 
-[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/arthtyagi/PongAI) 
-
 # PongAI
 We're going to be completing a slightly challenging task : teaching an AI to play pong in the browser using Tf.js.
 
